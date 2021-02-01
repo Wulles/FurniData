@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE hofdata SYSTEM "hofdata.dtd">
+
+<hofdata>
+   <roomitemdata class="CF_50_goldbar">
+      <stacking>
+         <stuff/>
+      </stacking>
+      <dimensions>
+         <x>1</x>
+         <y>1</y>
+         <height>0.37</height>
+      </dimensions>
+      <sprites>
+         <big>1</big>
+         <small>1</small>
+      </sprites>
+      <directions>
+         <direction>0</direction>
+         <direction>2</direction>
+      </directions>
+      <partcolors>
+         <layer>0</layer>
+         <layer>0</layer>
+         <layer>0</layer>
+      </partcolors>
+      <convertabletocredits/>
+      <creditvalue>50</creditvalue>
+      <notrecyclable/>
+   </roomitemdata>
+   <productdata>
+      <product price="50">
+         <code>a0 CF_50_goldbar</code>
+         <name>creditfurni 50</name>
+         <text>Creditfurni 50 Description</text>
+         <parameter>50</parameter>
+         <excludedfromdynamic/>
+      </product>
+   </productdata>
+   <metadata>
+      <category name="credit"/>
+   </metadata>
+</hofdata>

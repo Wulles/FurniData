@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE hofdata SYSTEM "hofdata.dtd">
+
+<hofdata>
+   <roomitemdata class="CF_1_coin_bronze">
+      <stacking>
+         <stuff/>
+      </stacking>
+      <dimensions>
+         <x>1</x>
+         <y>1</y>
+         <height>0.16</height>
+      </dimensions>
+      <sprites>
+         <big>1</big>
+         <small>1</small>
+      </sprites>
+      <directions>
+         <direction>0</direction>
+         <direction>2</direction>
+         <direction>4</direction>
+         <direction>6</direction>
+      </directions>
+      <partcolors>
+         <layer>0</layer>
+         <layer>0</layer>
+         <layer>0</layer>
+      </partcolors>
+      <convertabletocredits/>
+      <creditvalue>1</creditvalue>
+      <notrecyclable/>
+   </roomitemdata>
+   <productdata>
+      <product price="1">
+         <code>a0 CF_1_coin_bronze</code>
+         <name>Creditfurni 1</name>
+         <text>Creditfurni 1 Description</text>
+         <parameter>1</parameter>
+         <excludedfromdynamic/>
+      </product>
+   </productdata>
+   <metadata>
+      <category name="credit"/>
+   </metadata>
+</hofdata>

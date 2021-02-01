@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE hofdata SYSTEM "hofdata.dtd">
+
+<hofdata>
+   <roomitemdata class="CF_20_moneybag">
+      <stacking>
+         <stuff/>
+      </stacking>
+      <dimensions>
+         <x>1</x>
+         <y>1</y>
+         <height>0.9</height>
+      </dimensions>
+      <sprites>
+         <big>1</big>
+         <small>1</small>
+      </sprites>
+      <directions>
+         <direction>0</direction>
+         <direction>2</direction>
+      </directions>
+      <partcolors>
+         <layer>0</layer>
+         <layer>0</layer>
+         <layer>0</layer>
+      </partcolors>
+      <convertabletocredits/>
+      <creditvalue>20</creditvalue>
+      <notrecyclable/>
+   </roomitemdata>
+   <productdata>
+      <product price="20">
+         <code>a0 CF_20_moneybag</code>
+         <name>Creditfurni 20</name>
+         <text>Creditfurni 20 Description Description</text>
+         <parameter>20</parameter>
+         <excludedfromdynamic/>
+      </product>
+   </productdata>
+   <metadata>
+      <category name="credit"/>
+   </metadata>
+</hofdata>

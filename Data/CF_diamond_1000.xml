@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><!DOCTYPE hofdata SYSTEM "hofdata.dtd"><hofdata>
+  <roomitemdata class="CF_diamond_1000">
+    <stacking>
+      <stuff/>
+    </stacking>
+    <dimensions>
+      <x>1</x>
+      <y>1</y>
+      <height>1.1</height>
+    </dimensions>
+    <sprites>
+      <big>0</big>
+      <small>0</small>
+    </sprites>
+    <directions>
+      <direction>0</direction>
+      <direction>2</direction>
+    </directions>
+    <partcolors/>
+    <convertabletocredits/>
+    <creditvalue>1000</creditvalue>
+    <notrecyclable/>
+    <states/>
+  </roomitemdata>
+  <productdata>
+    <product price="1000">
+      <code>CF_diamond_1000</code>
+      <name>CF_diamond_1000 name</name>
+      <text>CF_diamond_1000 desc</text>
+      <parameter>1000</parameter>
+      <excludedfromdynamic/>
+    </product>
+  </productdata>
+  <metadata>
+    <category name="credit"/>
+  </metadata>
+</hofdata>
